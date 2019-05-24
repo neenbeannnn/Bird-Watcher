@@ -8,7 +8,7 @@
 
 **DATE CREATED**: January 25th-27th, 2019
 
-Click here for [YouTube demo](https://www.youtube.com/watch?v=DhtMsaiZ7_M).
+[Click here](https://www.youtube.com/watch?v=DhtMsaiZ7_M) for YouTube demo.
 
 This app was created with XCode and the Swift programming language.  It is merely a demo and not all of the
 pages are functional.
