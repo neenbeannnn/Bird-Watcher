@@ -10,6 +10,8 @@
 
 [Click here](https://www.youtube.com/watch?v=DhtMsaiZ7_M) for YouTube demo.
 
+Learn more about this app [here](https://devpost.com/software/bird-watcher).
+
 This app was created with XCode and the Swift programming language. It is merely a demo and not all of the
 pages are functional. It is designed to run on an iPhone 8.
 
